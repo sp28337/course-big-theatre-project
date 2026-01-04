@@ -1,46 +1,21 @@
-# Big Theatre Project
+# Frontend Layout Learning Project
 
-Hi, it's my first project. This one was created as a personal exercise to learn web development fundamentals and modern tools.
+This repository contains a learning project created while completing a Stepik course focused on **modern HTML/CSS layout and frontend fundamentals**.  
+The project was built step by step as part of practical assignments and covers the full process of setting up and developing a responsive website layout.
 
-## Built With
+During the course, I worked with **semantic HTML**, **BEM methodology**, **adaptive and responsive layouts**, media queries, flexible and fluid layouts, and modern CSS techniques including Grid. The project also includes work with images (retina, responsive images, SVG sprites), forms, and layout testing across different screen sizes.
 
-- **HTML5** and **CSS3**: For structure and styling.
-- **SCSS**: As preprocessor.
-- **JavaScript**: To add interactivity.
-- **Gulp**: For task automation.
-
-## Getting Started
-
-To get a local copy up and running, follow these steps:
-
-### Prerequisites
-
-Make sure you have the following tools installed:
-
-- [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/)
-
-### Installation
-
-1. Clone the repository:
- 
- ```bash
- bash: ~/your/path$ git clone git@github.com:sp28337/course-big-theatre-project.git
-```
-2. Install dependencies:
-```bash
- bash: ~/your/path$ npm install
-```
-## Usage
-
-Run the local development server with the following command:
-```bash
- bash: ~/your/path$ npm start
-```
-## Contact
-
-If you have any questions or suggestions, feel free to create an issue in the [Issues section](https://github.com/sp28337/course-big-theatre-project/issues).
+Tooling and workflow were an important part of the learning process: the project uses **Git, GitHub, NPM, Gulp**, and explores integration of **Bootstrap**, sliders, modals, and basic build automation. This repository reflects my early frontend foundation and practical understanding of layout principles.
 
 ---
 
-Thanks for checking out my project!
+## Tech Stack
+
+- HTML5, CSS3
+- BEM methodology
+- CSS Grid, Flexbox
+- Responsive & adaptive layout
+- Media queries, relative units
+- Gulp, NPM
+- Git, GitHub
+- Bootstrap, Swiper
